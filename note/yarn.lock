@@ -2181,7 +2181,7 @@ comment-parser@^0.5.4:
   resolved "https://registry.yarnpkg.com/comment-parser/-/comment-parser-0.5.5.tgz#c2584cae7c2f0afc773e96b2ee98f8c10cbd693d"
   integrity sha512-oB3TinFT+PV3p8UwDQt71+HkG03+zwPwikDlKU6ZDmql6QX2zFlQ+G0GGSDqyJhdZi4PSlzFBm+YJ+ebOX3Vgw==
 
-common-bin@^2.8.0, common-bin@^2.8.1:
+common-bin@^2.7.1, common-bin@^2.8.1:
   version "2.8.3"
   resolved "https://registry.yarnpkg.com/common-bin/-/common-bin-2.8.3.tgz#5a4c962890b0854f72816bc55c9ff2e06d900dd4"
   integrity sha512-F+mqfdLU5IzeIPrbxm+KLE5OlZ2ssFGtW+UWwZoCNojGuC1TDwPxCTb9xNLWVpOIDA5GDaN3g6ZCd42CIHpDxg==
@@ -2845,21 +2845,20 @@ egg-schedule@^3.6.0:
     safe-timers "^1.1.0"
     utility "^1.13.1"
 
-egg-scripts@^2.13.0:
-  version "2.13.0"
-  resolved "https://registry.yarnpkg.com/egg-scripts/-/egg-scripts-2.13.0.tgz#3e88262e3161e9003cf07e6dbd0074870e65c6cb"
-  integrity sha512-oxFjb2V9G5EVIFWPK3EkQoAHV+eMDbBGi1FnOH32MkGP+IRe/Y/Nnj4jbuxzJzpwsLLYvtNEk3FRpokEOC3V3A==
+egg-scripts@^2.8.1:
+  version "2.8.1"
+  resolved "https://registry.yarnpkg.com/egg-scripts/-/egg-scripts-2.8.1.tgz#0b39bf9fedbb02856eb66c6b8a54e6b294b99485"
+  integrity sha512-odM4XzJvemJKUzFR9dlnmXRHDK/AQvQqch21ulz68IYMhypKj3lzO1mGyLbNTodFrfOvR5qfBcM95tJJ/a2IGA==
   dependencies:
-    await-event "^2.1.0"
-    common-bin "^2.8.0"
-    debug "^4.1.0"
-    egg-utils "^2.4.1"
-    moment "^2.23.0"
+    common-bin "^2.7.1"
+    debug "^3.1.0"
+    egg-utils "^2.3.0"
+    moment "^2.19.2"
     mz "^2.7.0"
-    mz-modules "^2.1.0"
-    node-homedir "^1.1.1"
+    mz-modules "^2.0.0"
+    node-homedir "^1.1.0"
     runscript "^1.3.0"
-    source-map-support "^0.5.9"
+    source-map-support "^0.5.4"
     zlogger "^1.1.0"
 
 egg-security@^2.4.3:
@@ -2921,7 +2920,7 @@ egg-ts-helper@^1.25.2:
     typescript "^3.0.0"
     yn "^3.0.0"
 
-egg-utils@^2.4.1:
+egg-utils@^2.3.0, egg-utils@^2.4.1:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/egg-utils/-/egg-utils-2.4.1.tgz#bc7a330315a100bc45838a54f744fdd5d47c332a"
   integrity sha512-M7KIuzZdlN7AsL2mFvx0jpyEGcKTeQ5j+YT3eAhJOpBvBH9f4by2nKnb30huTRZIeJpjXWPdEzjGck/uj2N0jw==
@@ -5212,7 +5211,7 @@ moment-timezone@^0.5.31:
   dependencies:
     moment ">= 2.9.0"
 
-"moment@>= 2.9.0", moment@^2.22.2, moment@^2.23.0, moment@^2.24.0:
+"moment@>= 2.9.0", moment@^2.19.2, moment@^2.22.2, moment@^2.24.0:
   version "2.27.0"
   resolved "https://registry.yarnpkg.com/moment/-/moment-2.27.0.tgz#8bff4e3e26a236220dfe3e36de756b6ebaa0105d"
   integrity sha512-al0MUK7cpIcglMv3YF13qSgdAIqxHTO7brRtaz3DlSULbqfazqkc5kEjNrLDOM7fsjshoFIihnU8snrP7zUvhQ==
@@ -5274,7 +5273,7 @@ mysql@^2.13.0:
     safe-buffer "5.1.2"
     sqlstring "2.3.1"
 
-mz-modules@^2.1.0:
+mz-modules@^2.0.0, mz-modules@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/mz-modules/-/mz-modules-2.1.0.tgz#7f529877afd0d42f409a7463b96986d61cfbcf96"
   integrity sha512-sjk8lcRW3vrVYnZ+W+67L/2rL+jbO5K/N6PFGIcLWTiYytNr22Ah9FDXFs+AQntTM1boZcoHi5qS+CV1seuPog==
@@ -5366,7 +5365,7 @@ node-environment-flags@1.0.5:
     object.getownpropertydescriptors "^2.0.3"
     semver "^5.7.0"
 
-node-homedir@^1.1.1:
+node-homedir@^1.1.0, node-homedir@^1.1.1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/node-homedir/-/node-homedir-1.1.1.tgz#736db0b60e3bba8aba68df9927de40a7aabe1075"
   integrity sha512-Xsmf94D/DdeDISAECUaxXVxhh+kHdbOQE4CnP4igo3HXL3BSmmUpD5M7orH434EZZwBTFF2xe5SgsQr/wOBuNw==
@@ -6627,7 +6626,7 @@ source-map-support@^0.4.0, source-map-support@^0.4.15:
   dependencies:
     source-map "^0.5.6"
 
-source-map-support@^0.5.6, source-map-support@^0.5.9:
+source-map-support@^0.5.4, source-map-support@^0.5.6, source-map-support@^0.5.9:
   version "0.5.19"
   resolved "https://registry.yarnpkg.com/source-map-support/-/source-map-support-0.5.19.tgz#a98b62f86dcaf4f67399648c085291ab9e8fed61"
   integrity sha512-Wonm7zOCIJzBGQdB+thsPar0kYuCIzYvxZwlBa87yi/Mdjv7Tip2cyVbLj5o0cFPN4EVkuTwb3GDDyUx2DGnGw==
