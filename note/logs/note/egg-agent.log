@@ -1,0 +1,4 @@
+2020-06-30 17:09:54,412 INFO 25471 [egg:logger] init all loggers with options: {"dir":"/Users/chenxiang/Git/mine/personal/node/egg/note/logs/note","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"note-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"agent"}
+2020-06-30 17:09:54,417 INFO 25471 [egg:core] dump config after load, 3ms
+2020-06-30 17:09:54,432 INFO 25471 [egg-watcher:agent] watcher start success
+2020-06-30 17:09:54,436 INFO 25471 [egg:core] dump config after ready, 3ms

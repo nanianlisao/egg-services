@@ -1,0 +1,311 @@
+{
+  "mysql": {
+    "client": {
+      "host": "/Users/chenxiang/Git/mine/egg/note/config/config.default.ts",
+      "port": "/Users/chenxiang/Git/mine/egg/note/config/config.default.ts",
+      "user": "/Users/chenxiang/Git/mine/egg/note/config/config.default.ts",
+      "password": "/Users/chenxiang/Git/mine/egg/note/config/config.default.ts",
+      "database": "/Users/chenxiang/Git/mine/egg/note/config/config.default.ts"
+    },
+    "app": "/Users/chenxiang/Git/mine/egg/note/config/config.default.ts",
+    "agent": "/Users/chenxiang/Git/mine/egg/note/config/config.default.ts",
+    "default": {
+      "database": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-mysql/config/config.default.js",
+      "connectionLimit": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-mysql/config/config.default.js"
+    }
+  },
+  "keys": "/Users/chenxiang/Git/mine/egg/note/config/config.default.ts",
+  "middleware": "/Users/chenxiang/Git/mine/egg/note/config/config.default.ts",
+  "sourceUrl": "/Users/chenxiang/Git/mine/egg/note/config/config.default.ts",
+  "session": {
+    "maxAge": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+      "maxAge": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-watcher/config/config.default.js",
+    "eventSources": {
+      "default": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-static/config/config.prod.js",
+    "maxFiles": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-static/config/config.default.js",
+    "maxAge": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-static/config/config.prod.js"
+  },
+  "view": {
+    "root": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-view/config/config.default.js",
+    "defaultExtension": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+  "name": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "version": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "description": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "private": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "egg": {
+      "typescript": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "declarations": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "stop": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "dev": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "debug": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "test": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "cov": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "tsc": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "ci": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "autod": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "lint": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "clean": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@types/mocha": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "@types/node": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "@types/supertest": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "autod": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "tslib": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "typescript": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "url": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+    },
+    "eslintIgnore": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "author": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "license": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "strict": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "depth": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "env": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "level": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "coreLogger": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "allowDebugAtProd": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "logging": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "port": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/chenxiang/Git/mine/egg/note/node_modules/egg/config/config.default.js"
+}

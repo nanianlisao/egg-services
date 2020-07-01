@@ -1,0 +1,6 @@
+2020-06-30 17:09:54,473 INFO 25471 [egg-schedule]: register schedule /Users/chenxiang/Git/mine/personal/node/egg/note/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-06-30 17:09:54,473 INFO 25471 [egg-schedule]: register schedule /Users/chenxiang/Git/mine/personal/node/egg/note/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-06-30 17:09:54,474 INFO 25471 [egg-schedule]: register schedule /Users/chenxiang/Git/mine/personal/node/egg/note/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-06-30 17:09:54,632 INFO 25471 [Timer] /Users/chenxiang/Git/mine/personal/node/egg/note/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40805370ms at 2020-07-01 04:30:00.002
+2020-06-30 17:09:54,633 INFO 25471 [Timer] /Users/chenxiang/Git/mine/personal/node/egg/note/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 24605367ms at 2020-07-01 00:00:00.000
+2020-06-30 17:09:54,633 INFO 25471 [Timer] /Users/chenxiang/Git/mine/personal/node/egg/note/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 24606367ms at 2020-07-01 00:00:01.000
